@@ -1,23 +1,65 @@
 aid: virtuoso-therapeutics
 name: Virtuoso Therapeutics
-description: Virtuoso Therapeutics is a company surfaced as a portfolio company of canaan-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Virtuoso Therapeutics is a biopharmaceutical company advancing a pipeline of novel
+  bispecific antibodies to treat cancer. Using a differentiated approach to antibody
+  engineering, the company designs molecules intended to overcome the limitations of
+  existing therapies and to address major hurdles facing emerging classes of oncology
+  treatments. Virtuoso is a venture-backed portfolio company of Canaan Partners. This
+  profile is maintained in the API Evangelist network; the company currently publishes
+  no public API or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/virtuoso-therapeutics/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://virtuosotherapeutics.com/
+humanURL: https://virtuosotherapeutics.com/
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - canaan-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-industry: biopharmaceutical
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Biotechnology
+- Pharmaceuticals
+- Oncology
+- Antibodies
+- Therapeutics
+- Life Sciences
+- Healthcare
 apis: []
+common:
+- type: DomainSecurity
+  url: security/virtuoso-therapeutics-domain-security.yml
+- type: Website
+  url: https://virtuosotherapeutics.com/
+- type: About
+  url: https://virtuosotherapeutics.com/company/
+- type: Blog
+  url: https://virtuosotherapeutics.com/news/
+- type: ContactUs
+  url: https://virtuosotherapeutics.com/contact/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
