@@ -9,6 +9,17 @@ description: >-
   profile is maintained in the API Evangelist network; the company currently publishes
   no public API or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/virtuoso-therapeutics/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
