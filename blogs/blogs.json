@@ -2,11 +2,11 @@
   "repo": "virtuoso-therapeutics",
   "feeds": [
     {
-      "source": "https://virtuosotherapeutics.com/company/",
-      "feed_url": "https://virtuosotherapeutics.com/feed/",
+      "source": "https://virtuosotherapeutics.com/news/",
+      "feed_url": "https://virtuosotherapeutics.com/news/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "none"
     },
     {
       "source": "https://virtuosotherapeutics.com/feed/",
@@ -17,5 +17,5 @@
     }
   ],
   "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "fetched": "2026-10-10T13:15:00Z"
 }
